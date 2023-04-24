@@ -2,18 +2,18 @@
 
 const fs = require('fs')
 const chalk = require('chalk')
-global.owner = ['6281395861695']
-global.ownernomer = "6281395861695"
-global.premium = ['6281395861695']
-global.packname = 'Sticker By'
-global.author = 'BOTCAHX'
+global.owner = ['6288221525627']
+global.ownernomer = "6288221525627"
+global.premium = ['6288221525627']
+global.packname = 'Sticker By NUEL'
+global.author = 'NUEL DEV'
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: '✅Done',
+    success: '✅Done kyahh',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
@@ -36,9 +36,9 @@ global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/BOTCAHX'
 global.webmy = 'https://api.botcahx.biz.id'
 global.ghme = 'https://github.com/BOTCAHX'
-global.botname = 'BOTCAHX'
-global.omlen = '© TioXd'
-global.weem = 'BOTCAHX'
+global.botname = 'NUEL BOTz'
+global.omlen = '© NUEL DEV'
+global.weem = 'NUEL DEV'
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
